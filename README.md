@@ -1,6 +1,4 @@
-# maxi-web-design
 # MaXi-Design
-
 MaXi-Design is a sleek, client-ready portfolio and booking website for Nigerian developer and designer **Martin Hope**. It showcases services, projects, testimonials, and allows direct bookings — all powered by **MaXi**, a bold and creative brand persona.
 
 ## 🔗 Live Preview
